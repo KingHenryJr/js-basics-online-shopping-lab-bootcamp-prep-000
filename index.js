@@ -13,7 +13,7 @@ function addToCart(item) {
  // write your code here
  var pairs = {};
  
- pairs.
+ pairs[item] = 
  
 }
 
